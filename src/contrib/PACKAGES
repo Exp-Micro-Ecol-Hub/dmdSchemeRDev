@@ -1,0 +1,9 @@
+Package: emeScheme
+Version: 1.1.2
+Depends: R (>= 3.5.0), dmdScheme (>= 1.1.0)
+Imports: digest, magrittr, methods, rlang, rmarkdown, taxize, utils
+Suggests: knitr, covr (>= 3.2.1), testthat (>= 2.0.1), here (>= 0.1),
+       kableExtra (>= 0.9.0)
+License: MIT + file LICENSE
+MD5sum: 967fde8e1efa993df21cf1952189a68e
+NeedsCompilation: no
